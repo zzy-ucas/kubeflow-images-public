@@ -1,1 +1,1 @@
-gcr.io/kubeflow-images-public/tf_operator@sha256:03a591257d0762b83d010c8f29b8160afce4af05cb537449ececb177df049552
+FROM gcr.io/kubeflow-images-public/tf_operator@sha256:03a591257d0762b83d010c8f29b8160afce4af05cb537449ececb177df049552
